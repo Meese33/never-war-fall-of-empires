@@ -306,7 +306,7 @@ set_politics = {
 }
 
 
-add_ideas = {]
+add_ideas = {
 	limited_exports
 	limited_conscription
 	partial_economic_mobilisation
